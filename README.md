@@ -12,7 +12,7 @@ Learn the foundations of Machine Learning and start building your first models.
 
 - `Basics of ML.ipynb` – Introduction to core ML concepts.  
 - `Machine Learning Workflow.ipynb` – Overview of the end-to-end ML process.  
-- `Core Concepts.ipynb` – Deep dive into algorithms, model evaluation, and metrics.  
+- `Core Concepts.ipynb` – Learn core concepts of ML 
 - `Hands On- Your First ML Model.ipynb` – Build, train, and evaluate your first ML model.  
 
 ---
