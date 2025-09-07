@@ -17,7 +17,7 @@ Learn the foundations of Machine Learning and start building your first models.
 
 ---
 
-### 2️⃣ Data Preprocessing
+### Data Preprocessing
 Prepare your data for machine learning with cleaning, transformation, and feature engineering.  
 
 - **Datasets:** `data/` contains cleaned datasets for exercises (e.g., `adult_cleaned.csv`).  
