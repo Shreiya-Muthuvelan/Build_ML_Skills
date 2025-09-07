@@ -1,9 +1,9 @@
-# Build_ML_Skills
+# Build ML Skills
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) ![Status](https://img.shields.io/badge/Status-WIP-yellow)
 
-This repository contains my hands-on journey learning Machine Learning. It is being updated gradually with notebooks, datasets, and notes as I progress through the topics.
 ---
+This repository contains my hands-on journey learning Machine Learning. It is being updated gradually with notebooks, datasets, and notes as I progress through the topics.
 
 ## 📂 Current Structure
 
